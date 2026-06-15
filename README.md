@@ -167,7 +167,7 @@ challenge:
 
 ## License
 
-MIT-license.
+APACHE-2.0-license.
 
 ## Author
 
